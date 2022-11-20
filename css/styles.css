@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    text-transform: uppercase;
+    color: #005677;
+    background-color: #C4C4C4;
+    margin: 40px 0 40px 0;
+    padding: 10px;
+}
+
+h1,
+footer {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+span {
+    font-weight: 100;
+    text-transform: none;
+    margin-left: 100px;
+
+}
+
+.tab {
+    margin-left: 140px;
+}
+
+.lineaItalic {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.lineaBold {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #005677;
+    color: white;
+    display: flex;
+    justify-content: right;
+    padding: 2px 40px 2px 40px;
+}
